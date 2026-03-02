@@ -106,4 +106,3 @@ npm run dev
 - No real-time NAV APIs
 - No database persistence (state resets on refresh)
 - PDF/report generation is UI-simulated
-
